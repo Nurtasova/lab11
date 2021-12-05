@@ -134,14 +134,6 @@ top: 102px;
     border-radius: 2px;
 }
 
-.remember{
-    font-family: Nunito Sans;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 50px;   
-    color: #8E8E8E;
-}
 
 .PassWord-type{
     position: absolute;
@@ -182,7 +174,7 @@ top: 102px;
 }
 
 
-#ellips44{
+#44{
     position: absolute;
     width: 14px;
     height: 13px;
@@ -192,7 +184,7 @@ top: 102px;
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 100%;
 }
-#ellips43{
+#43{
     position: absolute;
     width: 41px;
     height: 39px;
@@ -202,7 +194,7 @@ top: 102px;
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 100%;
 }
-#ellips42{
+#42{
     position: absolute;
     width: 27px;
     height: 26px;
@@ -212,7 +204,7 @@ top: 102px;
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 100%;
 }
-#ellips41{
+#41{
     position: absolute;
     width: 27px;
     height: 26px;
@@ -222,7 +214,7 @@ top: 102px;
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 100%;
 }
-#ellips40{
+#40{
     position: absolute;
     width: 66px;
     height: 63px;
@@ -232,7 +224,7 @@ top: 102px;
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 100%;
 }
-#ellips39{
+#39{
     position: absolute;
     width: 47px;
     height: 45px;
